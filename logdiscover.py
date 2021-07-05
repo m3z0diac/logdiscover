@@ -56,5 +56,4 @@ def getreq(subdomain):
 	else:
 		return False
 
-#getreq('takwine.ofppt.ma/konosys/PC_MV_Login.asp')
 fuck_sublist(path)
